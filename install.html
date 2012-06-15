@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> An Artificial-Horizon WebApp </title>
+
+<script>
+    var request = navigator.mozApps.install("http://dl.dropbox.com/u/8727858/Artificial-Horizon/artificialhorizon/manifest.webapp");  
+    request.onsuccess = function() {
+      alert('installed');
+    }  
+    request.onerror = function() {  
+    }  
+</script>
+
+</head>
+<body>
+<p>

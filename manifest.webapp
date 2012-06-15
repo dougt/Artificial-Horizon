@@ -1,0 +1,12 @@
+{
+  "name": "Horizon",
+  "description": "An artificial horizon instrument implementation in pure Javascript using W3C Accelerometer and Orientation events",
+  "launch_path": "http://dl.dropbox.com/u/8727858/Artificial-Horizon/artificialhorizon/index.html",
+  "developer": {
+    "name": "richtr",
+    "url": "https://github.com/richtr"
+  },
+  "icons": {
+    "120": "http://dl.dropbox.com/u/8727858/Artificial-Horizon/artificialhorizon/icons/icon-128.png"
+  }
+}
